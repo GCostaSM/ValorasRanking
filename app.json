@@ -1,12 +1,12 @@
 {
-  "name": "app",
-  "displayName": "app",
   "expo": {
-    "name": "app",
-    "slug": "app",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "name": "ValorasRank",
+    "description": "Search for players info and your rank https://drive.google.com/file/d/16Ye0AElK2b3J46DLIEga0FutGzVFM6dF/view?usp=sharing",
+    "ios": {
+      "supportsTablet": true
+    },
+      "android": {
+      "package": "com.gabriel.valorasrank"
+    }
   }
 }
